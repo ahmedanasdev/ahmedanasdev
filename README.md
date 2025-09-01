@@ -1,12 +1,12 @@
 # Hi there, I'm Ahmed 👋
 
-💻 DevOps Engineer | ☁️ AWS Cloud Enthusiast | +6 Years EXP in IT & Service OPS
+💻 DevOps Engineer | ☁️ AWS Cloud Enthusiast | +6 Years EXP in IT & Service OPS   
 ⚙️ Passionate about Infrastructure as Code, CI/CD & Automation
 
 ---
 
 ## About Me
-🎓 BSc Commmunication Engineering (2014)
+🎓 BSc Commmunication Engineering (2014)   
 ☁️ Exploring AWS Solutions Architecture & Cloud Best Practices  
 🛠️ Building projects in Cloud, Security, and Web Development  
 📍  Based in Cairo, Egypt
